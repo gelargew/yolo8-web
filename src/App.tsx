@@ -243,8 +243,6 @@ function App() {
             <span className="label">count</span>
             <span className="value" ref={counterRef}>0</span>
           </div>
-          <p className="tagline"><span>copyright © 2025 by</span>
-          <PlabsLogo className="logo" /></p>
         </aside>
         </div>
       </div>
