@@ -1,5 +1,7 @@
 # Crowd Count (YOLOv8, Web)
 
+for people behaviour detection, please go to [people-behaviour branch](https://gitlab.com/plabs-project/human-detection-and-analytics-computer-vision/people-counting-and-behaviour/-/tree/people-behaviour?ref_type=heads).
+
 A simple, client‑side crowd counter that detects people in videos using YOLOv8 running in the browser (TensorFlow.js). Upload your own video or pick a built‑in demo; the app draws neon boxes and shows a live person count.
 
 ## Features
